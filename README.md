@@ -1,16 +1,19 @@
-## Hi there 👋
+Software Developer | AI Systems Engineer | Reverse Engineer | Video Game Developer
 
-<!--
-**mrwoods74821/mrwoods74821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience
 
-Here are some ideas to get you started:
+- HTML
+- Lua
+- Python
+- Java
+- JavaScript
+- C#
+- C++
+- Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **SCRE4M** — Prototype
+- **S&Box Half-Life Alyx Tools**
+- **The Rat Cave**
+- **Vector Error**
