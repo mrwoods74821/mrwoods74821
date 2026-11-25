@@ -11,7 +11,8 @@
 
 ## Projects
 
-- **SCRE4M** — Prototype
-- **S&Box Half-Life Alyx Tools**
-- **The Rat Cave**
-- **Vector Error**
+- SCRE4M: Prototype
+- Vector Error
+- S&Box Half-Life Alyx Tools
+- Half-Life Alyx: Co-op
+- The Rat Cave
