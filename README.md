@@ -1,5 +1,3 @@
-Software Developer | AI Systems Engineer | Reverse Engineer | Video Game Developer
-
 ## Experience
 
 - HTML
