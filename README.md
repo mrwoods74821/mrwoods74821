@@ -16,3 +16,5 @@
 - S&Box Half-Life Alyx Tools
 - Half-Life Alyx: Co-op
 - The Rat Cave
+- oblitus: THE FOREST
+- H.U.S.K. Protocol
